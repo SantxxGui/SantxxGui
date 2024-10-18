@@ -20,5 +20,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://pin.it/7z7PjAJ7v" />
+  <img alaing=center alt="aigis" src="https://pin.it/6i0gMkQdX" />
 </div>
