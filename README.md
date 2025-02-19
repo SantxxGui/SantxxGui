@@ -20,5 +20,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://i.pinimg.com/736x/e6/32/c4/e632c4ddfeae7def55bc5f43688e8cf4.jpg" />
+  <img alaing=center alt="aigis" src="https://i.pinimg.com/736x/65/3d/fe/653dfe120e23d490b4ecf3283c7a3577.jpg" />
 </div>
