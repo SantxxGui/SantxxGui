@@ -3,7 +3,7 @@
 
 
 - 📚 Ensino Médio e Curso Técnico!
-- 😜 Cursando Análise Desenvolvimento De Sistemas
+- 😜 Cursando Análise e Desenvolvimento De Sistemas
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=SantxxGui&show_icons=true&theme=chartreuse-dark"/>
